@@ -1,4 +1,4 @@
 eureka
 ======
 
-Angular project repo
+Angular project repo.
